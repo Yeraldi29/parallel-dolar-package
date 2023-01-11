@@ -3,7 +3,7 @@
         'name' => 'yeraldi29/parallel-dolar-package',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '213ad5591627d35229b3b28f55f99e2ba6d548f0',
+        'reference' => '8af4896f010863fa5382445fd3231c819eff6017',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -103,7 +103,7 @@
         'yeraldi29/parallel-dolar-package' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '213ad5591627d35229b3b28f55f99e2ba6d548f0',
+            'reference' => '8af4896f010863fa5382445fd3231c819eff6017',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
